@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as t,c,d as r}from"./app.c022f38b.js";const s={};function _(a,m){const e=n("Comments");return t(),c("div",null,[r(e)])}var f=o(s,[["render",_],["__file","config.html.vue"]]);export{f as default};
