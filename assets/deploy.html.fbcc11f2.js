@@ -1,4 +1,4 @@
-import{_ as i,r as o,o as r,c,b as e,d as t,a as l,e as s}from"./app.9293530e.js";var d="/blazeB2/img/txy.svg";const h={},p=l(`<h2 id="\u9879\u76EE\u6587\u4EF6\u7ED3\u6784" tabindex="-1"><a class="header-anchor" href="#\u9879\u76EE\u6587\u4EF6\u7ED3\u6784" aria-hidden="true">#</a> \u9879\u76EE\u6587\u4EF6\u7ED3\u6784</h2><div class="language-javascript ext-js line-numbers-mode"><pre class="language-javascript"><code>\u2514\u2500<span class="token keyword">static</span>  <span class="token comment">// \u5B58\u653E\u9759\u6001\u6587\u4EF6</span>
+import{_ as i,r as o,o as r,c,b as e,d as t,a as l,e as s}from"./app.b071c227.js";var d="/blazeB2/img/txy.svg";const h={},p=l(`<h2 id="\u9879\u76EE\u6587\u4EF6\u7ED3\u6784" tabindex="-1"><a class="header-anchor" href="#\u9879\u76EE\u6587\u4EF6\u7ED3\u6784" aria-hidden="true">#</a> \u9879\u76EE\u6587\u4EF6\u7ED3\u6784</h2><div class="language-javascript ext-js line-numbers-mode"><pre class="language-javascript"><code>\u2514\u2500<span class="token keyword">static</span>  <span class="token comment">// \u5B58\u653E\u9759\u6001\u6587\u4EF6</span>
     \u251C\u2500css
     \u251C\u2500fonts
     \u251C\u2500img
